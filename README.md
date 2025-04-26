@@ -37,3 +37,8 @@ autonomous-security-agent/
 ├── requirements.txt
 ├── sample_logs.json.gz
 └── README.md
+
+## 🖼️ Demo Screenshot
+
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
+
